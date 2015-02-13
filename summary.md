@@ -14,6 +14,7 @@ knit        : slidify::knit2slides
 ## setwd("/media/william/Storage/slidify")
 ## slidify('summary.Rmd')
 ## slidify('summary.Rmd', knit_deck = TRUE, encoding='UTF8', return_page = FALSE, save_payload = FALSE)
+## publish(user = "williamlfang", repo = "slide")
 ---
 
 --- #title x:0 y:0 scale:2
