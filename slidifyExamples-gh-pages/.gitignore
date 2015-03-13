@@ -1,0 +1,6 @@
+.DS_Store
+.cache
+examples/shiny*
+examples/scianimator
+assets_
+*.RData
